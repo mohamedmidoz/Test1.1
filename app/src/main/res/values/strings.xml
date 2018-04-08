@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UsingStringfile</string>
+    <string name="find_can">Find Can!</string>
+    <string name="brands">no cans selected</string>
+    <string-array name="can_colors">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>White</item>
+    </string-array>
+</resources>
